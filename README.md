@@ -1,1 +1,2 @@
 # Analyzing-Crime-Using-PySpark
+Using real data from Chicago's data portal, crimes reported for the year 2001 were analyzed. Data was pulled, transformed, and joined in order to solve several different questions people might have about the data using Apache Spark for Python aka PySpark. Topics include: working with dataframes, schemas, rows, columns, dates, joins, and RDD's. Many different built-in functions from pyspark.sql.functions were utilized throughout these tasks.
